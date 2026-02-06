@@ -1,0 +1,2192 @@
+[33mcommit 446d3df7c9d3ed3b9009fc9d612edbfbd490fdc1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: fkp8mn-ai <fkp8mn@virginia.edu>
+Date:   Mon Feb 2 15:01:05 2026 -0500
+
+    Add documentation, notes, and data files
+
+[33mcommit 7a871a636a21e394430482652da2012134f48491[m
+Author: fkp8mn-ai <fkp8mn@virginia.edu>
+Date:   Mon Feb 2 12:00:04 2026 -0500
+
+    Add three plain text files
+
+[33mcommit 478f98cfb7b9df932de8e7b8767f6762c797cea5[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 15:17:15 2026 -0500
+
+    reformatted devcontainer.json
+
+[33mcommit c982adc78b89f73da2965c26cc21e89b1e10c4b2[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 15:15:13 2026 -0500
+
+    reformatted devcontainer.json
+
+[33mcommit 0456627bdf08cceae157a399d705f55bfc4b90b6[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 15:01:20 2026 -0500
+
+    screenshots for ood resource requests
+
+[33mcommit 44dc511477355a38947301980abdfaae6216f8c5[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 14:12:33 2026 -0500
+
+    add ds2002 group, fixed json formatting
+
+[33mcommit c6475df30fad300e125aaa7408bb2b93e5ffb0e6[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 13:56:00 2026 -0500
+
+    add ds2002 group
+
+[33mcommit 436d1e051d12cc9d175169e075f86d8ed877d0c5[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 14 13:54:46 2026 -0500
+
+    non-root launch of Docker image in codespace
+
+[33mcommit 99d125f93b42cc0369cd7bd9909899e99113c1a7[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Mon Jan 12 22:06:46 2026 -0500
+
+    set codespace remoteUser
+
+[33mcommit 21864f9d7e368a60139aed47b70c3aac530a0bac[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Mon Jan 12 00:33:43 2026 -0500
+
+    fixed external urls, hpc setup
+
+[33mcommit f4d5da160d6ccdf7dd532e481a7514c95209afb9[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sun Jan 11 09:44:33 2026 -0500
+
+    external links and lab00
+
+[33mcommit 8bb1d76f619bdcc6efadfdf3939c65356062a0d3[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sun Jan 11 09:41:33 2026 -0500
+
+    external links and lab00
+
+[33mcommit 19d4bd82db37d7ff87d3d182fb8f047b050bb4a1[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 15:12:15 2026 -0500
+
+    fixed urls
+
+[33mcommit b2dc6fe74cf758f38374aa76761cbfaa1181e4bf[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 14:45:14 2026 -0500
+
+    updated windows install
+
+[33mcommit b6434824277a5b6ba8f87ef92cdfeac3eb5b04f1[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 12:55:39 2026 -0500
+
+    updated windows install
+
+[33mcommit 0b05f8f917d077ca7e19b4f97a879b60e5cf51ff[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 09:18:03 2026 -0500
+
+    streamlined cli lab and practice
+
+[33mcommit cbfc00ceaa76af9b7d7bb4686d2ce99d2c27454c[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 02:38:53 2026 -0500
+
+    cleanup module one
+
+[33mcommit 77a7dd8012d9a8c8803d8e040828804538ce0930[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Sat Jan 10 02:35:01 2026 -0500
+
+    cleanup module one
+
+[33mcommit 1dd09eabd4554b57bfb97dece1c37e3dbb2d862b[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Fri Jan 9 08:23:28 2026 -0500
+
+    fixed links
+
+[33mcommit b1978bf063d4b006f7274ecd83c8bea8cf6cc04d[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Fri Jan 9 08:19:59 2026 -0500
+
+    fixed links
+
+[33mcommit 5051fac3ce905b1cafe117be8376a7c7375ceba0[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Fri Jan 9 08:14:17 2026 -0500
+
+    reorganized setup and exercise instructions
+
+[33mcommit c6ae3b43d05b434bd8536eef02493b0f5cc031e7[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 7 08:35:59 2026 -0500
+
+    more practice
+
+[33mcommit 4f6b05d8d3cba1164bf69219cf5b7495df99e2be[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 7 00:45:48 2026 -0500
+
+    tweaked index
+
+[33mcommit 1e643087b0752e9274353fd63a3dc4e4c066dfb4[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Wed Jan 7 00:25:44 2026 -0500
+
+    more practices
+
+[33mcommit 5926fdb97e5accf42dd0e806a2931bad1bc1ca8f[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 20:13:30 2026 -0500
+
+    initial layouts for GH publishing
+
+[33mcommit 6bf00d65ef5dc9a0314b4d597347b3654371274a[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 18:34:02 2026 -0500
+
+    tweaks
+
+[33mcommit e6f446038d21a7c4e710f4390b95f92c6825ae74[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 17:24:31 2026 -0500
+
+    VScode
+
+[33mcommit 682eb8a165b005efc98e2a05542447f5e69bdd64[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 17:10:18 2026 -0500
+
+    merged setup instructions
+
+[33mcommit ad186b24fea96004ac2568ad573d8e353ca67782[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 16:37:32 2026 -0500
+
+    separate git and jupyterlab set up
+
+[33mcommit 3c9c1be061b7fd21fb893a8a1a8a8fad9cb4890d[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 16:22:26 2026 -0500
+
+    tweaked python packages and practices
+
+[33mcommit 88bb3799f84a3ce06052348dde5436d8f8e23db6[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 13:57:30 2026 -0500
+
+    missing man deps, jupyterlab, docker in docker
+
+[33mcommit ae1d5597a8d67f4169dd3f55eb539686abaa8492[m
+Author: ksiller <ksiller@gmail.com>
+Date:   Tue Jan 6 13:10:24 2026 -0500
+
+    updated setup, envs, linux practice
+
+[33mcommit 0f1c07552e8812a67753703d4aaed2d62f8e422c[m[33m ([m[1;31mupstream/main[m[33m)[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Mar 19 17:06:54 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit f6824982566c255b784639ae0954ab1c389e2035[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Mar 19 17:06:39 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit 5e0cfdd7afc94f46516ca34242dd969eb4038e46[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:37:52 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit ccd2198b885be0d6dc7477d0609b84771d7179e2[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:37:34 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit 828a182a163005d55e5559ddb90ca1b5a6e3fc7a[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:37:01 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit bb37bc86da608de116bb4f7420321f550db0513f[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:36:36 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit cf9acf5cca5869173e2fc4457c22dc175ec7f476[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:23:59 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit 2a5df0bc99cc1614963fd93a41c2230a859f7eee[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:23:50 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit 9a54629e136f76909b9c42032aa5bdb7c773050e[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:19:55 2025 -0400
+
+    Update lab5-sql.md
+
+[33mcommit de0c4d2ecc0efb33cd595dc1d0528769ccd9d6bd[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 18 13:16:41 2025 -0400
+
+    Create lab5-sql.md
+
+[33mcommit a3d8c7f3de1c9884b6755ac422429bb27adcd1c2[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 20 14:21:30 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit c19e2034c0aa882b16bc8098743e86d7ae55ef6f[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 20 14:08:41 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit e84ad4ac97bccaec844c85a6f80a0c4cea4ce850[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 20 13:49:53 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit f7a54e793f19840a7925f6622ec2d86b91a9cbb4[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 20 13:44:55 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 8cf7966265d61ed22546c98f2ae11799da0e0c4d[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 17:18:31 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 847fb2668ad801cf1bc59b7c51c75d3fb0b0150b[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 16:43:28 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit a7a166511fea641dd7472475f031407c5a37d052[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 16:09:22 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit f5d0b8c6f56d75f50621acae47adb6f0dbca400a[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 16:07:47 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit f2bfa31ef0394e2cb634cc4a75ae4b702ad75c76[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 16:06:05 2025 -0500
+
+    Submission instructions
+
+[33mcommit 94351475416f6674d062364a9a0c01df9e6d558c[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Wed Feb 19 16:00:41 2025 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 995aa0103bff52b1eef9367438af8ba88230a8ff[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 7 10:11:53 2025 -0500
+
+    Update lab3-scripts.md
+
+[33mcommit 053b583a2aa26224953769a8de99ff1ecb2c66e4[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Jan 23 11:25:46 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit 5f57e43139ea62ff2ae0fc405e5da70076710a8c[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jan 21 13:24:00 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit fa52474b73a50bfdfdc3fece4ababca9626f4392[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jan 21 13:23:22 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit 9a4658b349a2136a57b8b806690a0cb707f4b016[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jan 21 13:22:45 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit 9ea0b1bd9a701d9641d0bfa56420fe893be4c002[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jan 21 12:06:08 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit d922a00f261aa798b6041bd6abeb93ace607c2fc[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jan 21 12:05:53 2025 -0500
+
+    Update lab2-git.md
+
+[33mcommit 70998663b4346a2409670c4b0930d84a38e4ba6d[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Jan 17 09:11:33 2025 -0500
+
+    Update lab1-cli.md
+
+[33mcommit a4859b34d20b51cb0656788243f1ce4da3294aff[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Jan 16 17:02:42 2025 -0500
+
+    Update lab1-cli.md
+
+[33mcommit 007ad8bba4a5306f6f1e9e5d47a60ef9f03a8762[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Jan 16 17:02:12 2025 -0500
+
+    Update lab1-cli.md
+
+[33mcommit 1ee0a9497c569a3fcabef68eff57f179180012b4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 16 15:40:36 2025 -0500
+
+    Extra instrux
+
+[33mcommit 7a2e4660c70d5b1de39bfe9ea47056b77b91e829[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 16 15:35:24 2025 -0500
+
+    Cleaner Lab 1 plus gist submission
+
+[33mcommit 7dd5d0cde924d8252f6940c1d3f726183d91eccb[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 16 14:52:58 2025 -0500
+
+    lab1 revised
+
+[33mcommit 44afd7e1d401a5315d3c0843dd83d2a2ef658de7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Aug 11 11:33:58 2024 -0400
+
+    Testing the pat
+
+[33mcommit 3ff55c64b6414ac09b398af2b999321ca4b57d50[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Aug 11 11:29:27 2024 -0400
+
+    Gitpod - is it needed?
+
+[33mcommit c0a1420b34438cd29c04bf5b6f102c9bef934e25[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Aug 11 11:28:53 2024 -0400
+
+    Testing with the pat
+
+[33mcommit b2aee4c967d9b20f8e529ebb099adac4e51245bb[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Aug 6 12:15:18 2024 -0400
+
+    Updating
+
+[33mcommit d7bf511a630857ef4ba500c9ff542f4421540f4b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Jul 29 09:15:28 2024 -0400
+
+    Forcing merge soon.
+
+[33mcommit 21c992bd0ecbe9998997cabf3d2fa418ba28926d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Jul 26 23:10:53 2024 -0400
+
+    Tracking more tweaks
+
+[33mcommit 4f478b30eb6ee44b17fb3434b3e46456226d766f[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Jul 16 13:03:13 2024 -0400
+
+    Created using Colab
+
+[33mcommit cfb794ece5a53d1d7be4ade5a4ee0d465d9e5ff4[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 23 15:07:19 2024 -0400
+
+    Created using Colab
+
+[33mcommit 156cb3e0acc675ee6ba0fbb91f88180c83b5fa3a[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 23 14:45:24 2024 -0400
+
+    Created using Colab
+
+[33mcommit e90b675c5ad2ab4077b8aed7286a81b5bc9389d8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Mon Apr 22 11:20:38 2024 -0400
+
+    Update lab10-errors.md
+
+[33mcommit c054e08ac986761b81572db15741e794fc48e2dc[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Mon Apr 22 11:17:10 2024 -0400
+
+    Adding final lab
+
+[33mcommit 78b256c9ba587696b03320bf9b1fcc387c600173[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 16 13:48:54 2024 -0400
+
+    Update lab8-json.md
+
+[33mcommit 0e5e6df507a5ca548fc779e13f31298ae65623d0[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 16 13:48:18 2024 -0400
+
+    Update lab8-json.md
+
+[33mcommit 6871bf85b0b2f3a0c6a703a47921df94eec9a9e6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 16 09:23:42 2024 -0400
+
+    Hyperlink to data file
+
+[33mcommit c83e2de3f7b6cde8c63fd328fdf06cce74972129[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 16 08:58:20 2024 -0400
+
+    Lab8 data file
+
+[33mcommit 0330e839d0ed5fe2d8c1a20c5b6395ed42648500[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 16 08:55:11 2024 -0400
+
+    Update lab8-json.md
+
+[33mcommit 1186e94f8f6d702bb88078b6690c0f41b20b3a81[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 9 13:36:19 2024 -0400
+
+    Update mongodb.md
+
+[33mcommit b29bb076f843b970c08abd16c5a71a2437368207[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 9 11:27:39 2024 -0400
+
+    Closer syntax for mongodb
+
+[33mcommit 902665dba3ba53abf9bc229299a6444fd936283a[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 9 10:12:36 2024 -0400
+
+    numbering
+
+[33mcommit 16c04f9fb320a0dc1c4bb18204a659d0b8bdac4c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 9 10:11:20 2024 -0400
+
+    Adding Lab 8
+
+[33mcommit 4719cdbb60d1a180d2afde1947c097e80c7c13d1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 3 09:49:56 2024 -0400
+
+    Fuller page for Canvas
+
+[33mcommit 77e48a927b90bbdf78acb7fa69bba3da2f13510e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 15:04:53 2024 -0400
+
+    Tracking
+
+[33mcommit 02c2ec777da7b7c81c6c821c07ab901ae7d83238[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 13:46:27 2024 -0400
+
+    Better SQL
+
+[33mcommit 412f97bb1ab5a288db7fb82af8f9ce20bda2e634[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 13:22:34 2024 -0400
+
+    More cleanups
+
+[33mcommit 701e4c07b6366319234470644c6bc7c573c28a88[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 13:03:54 2024 -0400
+
+    More
+
+[33mcommit 0d972216bc810ebece32d0ebc578fdc9039e8038[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 12:53:38 2024 -0400
+
+    Gitpod tasks for preload
+
+[33mcommit 79e2cb1af23285ca3bdb5afd912b7a0a3740cace[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 12:42:56 2024 -0400
+
+    Basic gitpod config
+
+[33mcommit 9227618badd22a99db7fd99ca8febdc1e47dc642[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 12:41:07 2024 -0400
+
+    Updates
+
+[33mcommit 6d948bd1a4f7bbdbddb07c9825d0d81761e982e4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 12:26:56 2024 -0400
+
+    Commit for button check
+
+[33mcommit 58ac214fa140f43db2f99f42d7be50d6aa689e49[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 2 12:18:09 2024 -0400
+
+    Material for SQL
+
+[33mcommit f63fac7f10afc26bf11d6dec1cdc0d4b362bf9a1[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Apr 2 11:31:59 2024 -0400
+
+    Submission corrections for DP1
+
+[33mcommit 51721bb149b5431102380f612124c923897b9239[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 29 11:09:57 2024 -0400
+
+    Small fixes
+
+[33mcommit fc474c2a37d092f9d995c7c8f044bb61298d5547[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 29 11:06:09 2024 -0400
+
+    Typs
+
+[33mcommit 62b273f44e1193c5aa31eaab002e1ef39ac59210[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 29 11:01:00 2024 -0400
+
+    Lab7
+
+[33mcommit a9bfb5af3d2bf34287c17408505502f9944f9aeb[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Mar 29 09:28:14 2024 -0400
+
+    Update dp1.md
+
+[33mcommit 545aa1d88a8d771dfd10bd29464c83cf018aa188[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:59:42 2024 -0400
+
+    Tracking
+
+[33mcommit f88e593e6a1b688ec2343534621d30ea74f27ad3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:37:04 2024 -0400
+
+    Tracking
+
+[33mcommit 69cf4a1f0914b16e034689159291cb83a74e9033[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:29:06 2024 -0400
+
+    Tracking
+
+[33mcommit 0b1999843aa5b9856c016b659ec07d83fe20b943[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:27:11 2024 -0400
+
+    Tracking
+
+[33mcommit 2d828c00ee51f3bef4cdc668903daf78878acd72[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:19:20 2024 -0400
+
+    Tracking
+
+[33mcommit 5adfb793ff87586ed81071df239ee128528fda8e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 14:09:38 2024 -0400
+
+    Tracking
+
+[33mcommit aa570eab4a057f42905f7d047681b7469f89263d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 28 10:37:23 2024 -0400
+
+    Clearer language for in-class
+
+[33mcommit 7ac1f4b20ebd92ded7800d3a123de9263e8475c6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 16:06:22 2024 -0400
+
+    Typos
+
+[33mcommit 90e2581537930c67af894871cd48af96b1ed829c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 15:25:06 2024 -0400
+
+    Typos
+
+[33mcommit 7e045268490cb01d50363a444b06016adc942a32[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 15:24:32 2024 -0400
+
+    Typos
+
+[33mcommit 7165076b9308a6a37b6d0b61ea1a724fcaa56c26[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 15:24:10 2024 -0400
+
+    Typos
+
+[33mcommit e12661543848c4e269e96382f19fe58a2d7528f4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 15:23:07 2024 -0400
+
+    Typos
+
+[33mcommit 7b1d7d80e9d92ffedf4c3ce55e119013a67a0bff[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 13:54:38 2024 -0400
+
+    Smomothing details
+
+[33mcommit 3589dcb6a0928e62651869cb6d089aed19b00d9c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 13:12:44 2024 -0400
+
+    More
+
+[33mcommit d1f1e849f980b14c57c72b33b7b3118978afa624[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 13:05:56 2024 -0400
+
+    DP1 complete maybe
+
+[33mcommit 864bcfde17ed5e98c95f2283690680dedc3defed[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 11:46:48 2024 -0400
+
+    Nearly complete
+
+[33mcommit 4b6d378dc860e911e28b5fa0dec26981dded8599[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 27 11:14:02 2024 -0400
+
+    Tracking for DP1
+
+[33mcommit f58230c7a3c61314f4723245844324376aab5b48[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 26 13:17:53 2024 -0400
+
+    Adding username issue to lab 6
+
+[33mcommit 6f4e7d47f29f2c17ca4b1adac73f936c8bb56220[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 26 07:25:09 2024 -0400
+
+    Update lab6-gha.md
+
+[33mcommit cbccb93c423e6d44cb336cd9a5c5166f2a6a44e1[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 19 17:00:35 2024 -0400
+
+    Update lab6-gha.md
+
+[33mcommit e8701a0ceeb9327b45ca60e4892e49b36ccddb3d[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 19 17:00:05 2024 -0400
+
+    Update lab6-gha.md
+
+[33mcommit f7560c7300496241765c38e76cdf60af0f1ff250[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 19 16:59:13 2024 -0400
+
+    Update lab6-gha.md
+
+[33mcommit cf1723ca538c8b8e3d39e0ccb6d6c657a0cf02a1[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Mar 19 16:58:30 2024 -0400
+
+    Update lab6-gha.md
+
+[33mcommit ef0d729766e6207de9fd8347a73710a4782b54a9[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Mar 18 12:46:20 2024 -0400
+
+    wrap lab 6
+
+[33mcommit d92cbc4bf9c078b1a98ce6e58c8ff6b1ae36f565[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Mar 18 11:59:06 2024 -0400
+
+    Adding Lab 6
+
+[33mcommit 4a306c76b2884e0e84edde90c8376c8ce8ed6370[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 15 14:33:51 2024 -0400
+
+    Submission instructions for lab5
+
+[33mcommit e5dc52728c06793ffb4f5ccf005e711834f9fce2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 15 14:29:16 2024 -0400
+
+    Updated video embed
+
+[33mcommit bcefaba23b3fa0f3457445421b3b9fd5d3a257ca[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 15 14:25:25 2024 -0400
+
+    Adding Lab 5
+
+[33mcommit ae5bd26acf850741d58c84005af0717c5a6ad5c8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Mar 15 13:28:23 2024 -0400
+
+    Create lab-5.md
+
+[33mcommit a326f1bf50bb460123be1d079e995c0b98b6c105[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 26 09:51:50 2024 -0500
+
+    Testing commit signature
+
+[33mcommit 5b486f526649016fbe5b3b5f516b6e0be7012e7c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 26 08:34:05 2024 -0500
+
+    shortening the signature length
+
+[33mcommit e6322a42836baa0154bd7328f271828b05a56923[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 23 10:00:43 2024 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 739055e6b7b26393f8189cd68f4f96cb336e78a1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 22 15:01:59 2024 -0500
+
+    Tracking
+
+[33mcommit ece5c5aebb8e7c7443862527f406f8d4d27ff430[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 22 10:19:10 2024 -0500
+
+    Update lab4-s3.md
+
+[33mcommit e3e8668e571d55a893b110b313300aee1798f710[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 22 10:18:38 2024 -0500
+
+    Update lab4-s3.md
+
+[33mcommit de266d89e67e54e54f44735b723d2b0818067f92[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 22 10:11:17 2024 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 3d1c3ca765887050611245a502168255f8bee074[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 22 10:09:17 2024 -0500
+
+    Update lab4-s3.md
+
+[33mcommit 3626518436a0203703f7bebde6d8202f5a4a845e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 22 10:01:39 2024 -0500
+
+    Updating boto3 snippets
+
+[33mcommit b3ab93058c97b6c283f3416a0a35e084f5706956[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 20 15:23:27 2024 -0500
+
+    More for lab4
+
+[33mcommit 1a69ba43e105345b23e7335681337d94be085a5c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 19 16:23:20 2024 -0500
+
+    Better instrux for lab4
+
+[33mcommit ddc24237d1f2af77de946813e37e067a302566f2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 19 16:04:11 2024 -0500
+
+    Better instrux for lab4
+
+[33mcommit de21fc9c24ef31df9adafdf400d6eb16177bc230[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 19 15:08:49 2024 -0500
+
+    Better instrux for lab4
+
+[33mcommit 77d233c5ce40925d897c5ac600388a3285fc6757[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 19 15:05:38 2024 -0500
+
+    S3 lab 4
+
+[33mcommit cf1c1a14b1eeb09f13459752751b6622971fa0e8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 16 16:13:00 2024 -0500
+
+    Update lab3-scripts.md
+
+[33mcommit 3890fd99f19a1ad3ba46547e23228871f2a11be8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 16 16:06:04 2024 -0500
+
+    Update lab3-scripts.md
+
+[33mcommit 8cc45a6a8e4c17a29307620128f5aaacd4019b63[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 16 16:05:08 2024 -0500
+
+    Update lab3-scripts.md
+
+[33mcommit 13e5a8314829d1999d9facd68e3dd4e66da8aebc[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 16 16:04:29 2024 -0500
+
+    Lab 3 posting
+
+[33mcommit 76b0adda7613dc79564056ae315e88a555ab237e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 16 12:21:33 2024 -0500
+
+    Tracking
+
+[33mcommit a0f239a8c65841fcbef3f49f464daab40a9fd9c2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 15 15:20:35 2024 -0500
+
+    Tracking before class
+
+[33mcommit 45706a2d1bc576a849efd38405101a050a6480d8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 15 14:50:32 2024 -0500
+
+    Adding runon / picalc demo
+
+[33mcommit 52132d01023b6275409c4066b0f6f5e1be22c04f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 14 15:55:33 2024 -0500
+
+    Tracking changes in practice/05
+
+[33mcommit be41d562ce8d60b70415977b4157300676c011aa[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 13 14:08:17 2024 -0500
+
+    More files to add
+
+[33mcommit df6717f24a1e9224abdd3d63604dfd7b290aebd8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 13 14:00:01 2024 -0500
+
+    Tracking before class
+
+[33mcommit f5445f3442a3e998dd710ce944a6e1d4a32928a5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 13 13:18:34 2024 -0500
+
+    Error codes
+
+[33mcommit 67cbbee3f0e0e9f1e3c494347dd671df20e16dbc[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 13 10:54:40 2024 -0500
+
+    Tracking before class
+
+[33mcommit eedc320b0f00999ab9868d10ff7459aabc923319[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 9 09:27:51 2024 -0500
+
+    Update README.md
+
+[33mcommit 3546b2a3a4b46fbbafe19149ed7812a9d12314a8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Fri Feb 9 09:26:22 2024 -0500
+
+    Update README.md
+
+[33mcommit 71c05025bb757bd0754695ee5c6eb2331c55e21f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 8 15:06:42 2024 -0500
+
+    More in-class examples to walk through together
+
+[33mcommit f463bf4c37e85c7d836844fabbccb7b197ac3892[m
+Merge: 5a22a71 dd5d3b8
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 8 14:50:43 2024 -0500
+
+    Merge branch 'main' of github.com:nmagee/ds2002-course
+
+[33mcommit 5a22a71b8325d2f74f00070e98707c642a4fdc19[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 8 14:50:36 2024 -0500
+
+    Set up pre-class
+
+[33mcommit dd5d3b82026f7d453bb5747c93f927c5bf25be78[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 8 13:15:02 2024 -0500
+
+    Update README.md
+
+[33mcommit f8d1e7e75792a477263b4c56b81957332642d74f[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 8 13:08:20 2024 -0500
+
+    Single block for upstream code
+
+[33mcommit f60abfd8f13bff812f8240c81d604f93060f2602[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 8 10:43:40 2024 -0500
+
+    Update instructions for upstream
+
+[33mcommit 584282a643a830327b421c2712a5247699c357b8[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 8 09:59:29 2024 -0500
+
+    Update README.md
+
+[33mcommit 9e159c7c978894efd5012805628ea1a07a499831[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 8 09:45:14 2024 -0500
+
+    Update README.md
+
+[33mcommit 9cd92fda4bf799025817f731f41c57538039bb28[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 6 15:22:21 2024 -0500
+
+    Stub for class
+
+[33mcommit 72d85ee2a82465d1c10bc5a9366d30d701f302e0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 6 15:20:24 2024 -0500
+
+    Pos args
+
+[33mcommit d7e12b2e99b5b515b22b93372c49c5289c804de7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 6 14:51:50 2024 -0500
+
+    Tracking
+
+[33mcommit a333ac9004a5adcc07a9296dcbb791e51fb0ebed[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 6 11:38:16 2024 -0500
+
+    Adding mywork dir
+
+[33mcommit ed0acf39841f16f9cc780cb1a320b95efdc2025c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 6 11:37:05 2024 -0500
+
+    Tracking
+
+[33mcommit 38480461480f1894f72ad6abb0e06c11264927a0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 2 16:20:35 2024 +0000
+
+    Testing from the Windows VM
+
+[33mcommit 6aca509b31149309d4c14cee1a098165f2914665[m
+Merge: fc7c83c ed024a6
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Feb 1 11:24:47 2024 -0500
+
+    Merge pull request #4 from nmagee/main
+    
+    PR fork into main
+
+[33mcommit ed024a6550c46cdf5fc226856080fb7528f8c466[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 1 11:21:22 2024 -0500
+
+    Pre PR change
+
+[33mcommit c5a4ffa507f676d44458b0307e7d705c84b0c520[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 31 14:43:47 2024 -0500
+
+    Adding Lab 2
+
+[33mcommit 7c39bceba75507cb82d3a69e90678b4b6bdeeda0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 31 13:44:29 2024 -0500
+
+    Using the VSCode gui for testing.
+
+[33mcommit fc7c83c3cb3b362caf79247295fffe25b0749c5a[m
+Merge: c75dc04 fe52984
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Jan 25 15:17:12 2024 -0500
+
+    Merge pull request #3 from nmagee/main
+    
+    nmagee into ds3002 merge PR
+
+[33mcommit fe52984ca04affccc3b105593d5698a6c9ed69d3[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Jan 25 14:34:23 2024 -0500
+
+    Update lab1-cli.md
+
+[33mcommit fbcc4f67c97b390fe877e28db9a385c3055f321f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 25 13:59:57 2024 -0500
+
+    No zip for win
+
+[33mcommit 523f0aad21c5724949cbec15c97fe69a5742f805[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 25 13:59:34 2024 -0500
+
+    No zip for win
+
+[33mcommit 17b64d7e314460e2f3922bdacb17e8e8d3c61740[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 25 13:58:59 2024 -0500
+
+    No zip for win
+
+[33mcommit 578534b448c66c9df736afde7e5f2aab7df0206d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 25 13:58:04 2024 -0500
+
+    No zip for win
+
+[33mcommit aa1b1b9d32be4fc956fc7884098c8f5f72823e4e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Jan 25 11:14:45 2024 -0500
+
+    Some chmod bits for the lab
+
+[33mcommit 08dff3900898511a187ea07e9e45635d95242ec6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 14:18:50 2024 -0500
+
+    Answers
+
+[33mcommit 90bb768e79e25c158319057c533584f13eb8c888[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 14:08:31 2024 -0500
+
+    More
+
+[33mcommit 12bdd1647f7724b420708d9bae654dfc8e4403d1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:56:18 2024 -0500
+
+    tar added
+
+[33mcommit 4299c8587022f634c48a4a410a3b008de6776663[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:48:05 2024 -0500
+
+    tar added
+
+[33mcommit 22b120c0e67f7c3aa6b8299b2c623cb25b786e9b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:18:59 2024 -0500
+
+    More lab
+
+[33mcommit 17beba01a4ff06a4741fc4533c2846fd48994623[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:18:14 2024 -0500
+
+    More lab
+
+[33mcommit 3fd498f83b627779cab7040d074da3bdcf061003[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:09:45 2024 -0500
+
+    More lab
+
+[33mcommit a795bb51532418360ca40f1c4bc5f57705d69481[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Jan 24 12:08:50 2024 -0500
+
+    More lab
+
+[33mcommit bd464155f3e0f03f70c5f2d521cdf2ce9e4009af[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Jan 20 14:26:34 2024 -0500
+
+    Tracking
+
+[33mcommit edd7ff8239d1c5507bd436dd5a23149d97969551[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Jan 19 15:21:36 2024 -0500
+
+    More
+
+[33mcommit 5050d1b2acefdac0cb9fc75536def1bd1d2d4adb[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Jan 19 15:21:00 2024 -0500
+
+    More
+
+[33mcommit 334dfc157e8f7e9eaba110fce001c5bd8ad1241c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Jan 19 14:50:02 2024 -0500
+
+    More for lab1
+
+[33mcommit 9b22d6296012ab32189167ecfefa71d32740eef5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Jan 19 10:28:02 2024 -0500
+
+    Initial lab 1 page
+
+[33mcommit c75dc0418de2753011fcb0ca0359ac9abbde0351[m
+Author: Neal Magee <nmagee@virginia.edu>
+Date:   Wed May 5 15:37:09 2021 -0400
+
+    More packages
+
+[33mcommit dcce283be802ca0add6a583133ff74e6e0822d42[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 29 10:43:59 2021 -0400
+
+    Lambda Cron
+
+[33mcommit e2e0b0d47a7b269e79dfde83f02c06fef38f44a8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Apr 27 14:02:20 2021 -0400
+
+    Chalice + Lambda
+
+[33mcommit 262794ba057c609ac11ddcda222b5eb9947d4b87[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 21 15:20:14 2021 -0400
+
+    Fix for bson errors
+
+[33mcommit e2acec2914b141d779c1fafef0f4fe00c5b8b0e7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 21 15:07:49 2021 -0400
+
+    Fixes for bson/pymongo
+
+[33mcommit d6c3a26d35fd97577a8d82eac0eef40630596f05[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 16 09:52:36 2021 -0400
+
+    Timer link in Mongo example
+
+[33mcommit 1d04424bd2d180947fdcdb5c9627e504e731060b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 16 09:14:17 2021 -0400
+
+    Adding the Chalice+MongoDB example
+
+[33mcommit ce91eeb5c22c81359292cc8734b62dec5f50e58d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 14 13:54:51 2021 -0400
+
+    Cleanups
+
+[33mcommit 6cca180687241e1636f2785c9487b7c9acd4203c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 14 13:29:49 2021 -0400
+
+    Keep things tidy
+
+[33mcommit 9df38639f774206dd341901206353e0f92b184e8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 14 12:59:03 2021 -0400
+
+    Mongo things for NoSQL week 2
+
+[33mcommit 3ac80cb7d7c826251f87209b229287f99d520d31[m
+Merge: f928471 853855d
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 14 09:23:35 2021 -0400
+
+    Merge branch 'main' of github.com:ds3002/course into main
+
+[33mcommit f9284711dd57f16e6da9b163c74d1c3bacafdf1d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 14 09:23:26 2021 -0400
+
+    Chapter 13
+
+[33mcommit 853855d15c87aba7406770e9672e980e3f348c1a[m
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Apr 8 10:37:07 2021 -0400
+
+    Adding exercise for VS Code video.
+
+[33mcommit 7569b4b624e0c885fb19f84906e4187b8221e555[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 8 09:00:14 2021 -0400
+
+    More wording
+
+[33mcommit 18eb30109f6246ccb8fe9170f93ebb37b353af40[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 8 08:26:07 2021 -0400
+
+    Tracking
+
+[33mcommit 966cbc488246b3e624022ed5a2416d20b32cf055[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 8 08:23:01 2021 -0400
+
+    Code + Container image
+
+[33mcommit 0e37e7ac0260b4bd5ff5a3945583067c0634c8b7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 7 15:27:23 2021 -0400
+
+    New gitpod instrux
+
+[33mcommit b3dc7cf8ebe7011d21e32a6001027a9940bf91b7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 7 15:08:59 2021 -0400
+
+    Cleanup
+
+[33mcommit 57a4df79862757d8ce564015dee0f0d8f2723296[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Apr 7 15:01:32 2021 -0400
+
+    Use redis in Gitpod
+
+[33mcommit 330e4ea96705e9825d1b616db85ed2fccb2d29ab[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Apr 5 15:11:23 2021 -0400
+
+    Mongo lab
+
+[33mcommit d399e077dba5d019d0bf0dc3f04e8211dce030cf[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Apr 5 15:10:29 2021 -0400
+
+    Mongo lab
+
+[33mcommit 2a78f142a4df33943878ee99ce0fb08b8e7a675f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Apr 5 15:06:59 2021 -0400
+
+    Mongo lab
+
+[33mcommit b4dde5a03a070bdd0f01a1d58eb706b51d3a9f8f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Apr 4 19:16:40 2021 -0400
+
+    Better hands-on for Dynamo
+
+[33mcommit 3fe177ef0708353218b27a623a30019c61afcdbf[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Apr 4 10:00:44 2021 -0400
+
+    More advanced redis
+
+[33mcommit 54e54a5b5641b51da1b82cb71a1196c9c4c02746[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sun Apr 4 09:57:35 2021 -0400
+
+    More advanced redis
+
+[33mcommit df933d905bf98a2adffee6f0aea1ca21d857f94b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 20:53:37 2021 -0400
+
+    CRUD in mongo
+
+[33mcommit 17c1248c1c933052f5b7d0910ecf0611f4c06f38[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 17:18:03 2021 -0400
+
+    Clean up lab for Dynamo
+
+[33mcommit 7b23dcee4c691ffa690cfa7fca240c2b056108c6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 17:16:29 2021 -0400
+
+    Try redis
+
+[33mcommit 933777cdd83a2afd4f36fc6dddd8ec3664062895[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 17:15:45 2021 -0400
+
+    Try redis
+
+[33mcommit a3a5c071aae03776e483264835db71cf4830e662[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 17:14:50 2021 -0400
+
+    Try redis
+
+[33mcommit b6618269778dacc2d9525b7500288f189df85aac[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 16:47:26 2021 -0400
+
+    Try redis
+
+[33mcommit 1744dfed427a016c43c6cbe97fc1b46e341a55e5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 16:47:07 2021 -0400
+
+    Try redis
+
+[33mcommit d09d5269fa89d616288223e6ceb1554b35f599db[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 16:46:39 2021 -0400
+
+    Try redis
+
+[33mcommit 12530fb6da265ac6200c836b3f81daa5d74e66e4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:56:15 2021 -0400
+
+    Redis exercises
+
+[33mcommit 509f80537d346e0eb89529052ca376f4f903e437[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:49:58 2021 -0400
+
+    Dummy JSON for mongo
+
+[33mcommit 73c4f9893b9cb74824a7f24150989a58a0b819c1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:48:19 2021 -0400
+
+    Dummy JSON for mongo
+
+[33mcommit 6fac777125bcef4746c52422551787e55f3e6055[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:31:06 2021 -0400
+
+    Uses for datasci
+
+[33mcommit e4afb05371eed336d6d4d2c1d5bf9a66d41545b9[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:22:02 2021 -0400
+
+    Cleanups
+
+[33mcommit 9c5f7ec1204a75e802719274d24fe8dda3711402[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:19:41 2021 -0400
+
+    Cleanups
+
+[33mcommit fa8243180cdbe088341faa61a7bdb291ef9fde42[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 12:17:32 2021 -0400
+
+    Cleanups
+
+[33mcommit 9e8020633f80b261134b06389b88cfbb13ff8baa[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 10:57:54 2021 -0400
+
+    Button
+
+[33mcommit ae65702796e43c48840572623e646240c992814b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 10:56:36 2021 -0400
+
+    Button
+
+[33mcommit 3a654b1540076a3699a7b8aa22de2497b4405c2d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 10:54:48 2021 -0400
+
+    Button
+
+[33mcommit ec3e687968a0a45e50a3fd4f214b7c5417607a73[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 10:48:15 2021 -0400
+
+    More NoSQL content
+
+[33mcommit 041effae0862125d6ef401fc9f095f42a4c6d5fd[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Sat Apr 3 10:34:59 2021 -0400
+
+    Start of Mongo
+
+[33mcommit f01052f0f594bdd2d3e83e121b8294c4fc6f32bd[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 19:46:29 2021 -0400
+
+    Formatting
+
+[33mcommit 0caa8d395b834613ef35571ceec8ef01fdbc2518[m[33m ([m[1;31mupstream/container[m[33m)[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 19:43:31 2021 -0400
+
+    nocache for builds
+
+[33mcommit 55ad637a5a31a7d7c2f439e4bab831fccb0c294b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 19:40:04 2021 -0400
+
+    Tweak to container
+
+[33mcommit 085eeb7cc2c6b9bc61a5ae1cdf4f40c9a62d21f3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 15:41:17 2021 -0400
+
+    Switching up builds - less frequent
+
+[33mcommit a534404d82d103ef643a341207b708f0f6d2951b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 15:40:00 2021 -0400
+
+    Mongo client
+
+[33mcommit ba4b1818f4f75df9b6d51bdfbd49d217a148681c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 13:28:54 2021 -0400
+
+    adding video embeds
+
+[33mcommit 0849247981b7f228c382e2cf0e3ad24d6e750d7e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 09:42:34 2021 -0400
+
+    Simpler
+
+[33mcommit 1ec211abbb8e8da65c865f12b62fcf96d58e1293[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 09:37:04 2021 -0400
+
+    JS link
+
+[33mcommit 028cb480c21cdb7e05b295df2c2dc03944b994ac[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 08:51:18 2021 -0400
+
+    Cleaner explanation
+
+[33mcommit f81edf1263d2e541b8297fa0dba9f6a790bbc353[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Apr 2 08:46:11 2021 -0400
+
+    Clear after sync
+
+[33mcommit c02d3fd75233002dd5c7c02cd41688601dcd2f41[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 19:17:44 2021 -0400
+
+    Formatting
+
+[33mcommit e7272e1701b01b327c89ed5a8ceeacd50f3c4653[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 19:16:10 2021 -0400
+
+    Formatting
+
+[33mcommit 8e59311c5846fa6b1c520c9a942df9e932ad5ea5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 19:12:29 2021 -0400
+
+    Reorder
+
+[33mcommit b36fd658eed55112d82b686cb7f7b8339eb2a313[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 18:42:07 2021 -0400
+
+    Working ver
+
+[33mcommit fc1da03ab1425965a8cb4fbed317e50f6be602c3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:38:43 2021 -0400
+
+    Backlog
+
+[33mcommit 542563c064fff4faf848e61740975c0ebfe17e0f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:30:39 2021 -0400
+
+    Change for test
+
+[33mcommit c5810addbdc90b110455fcf6aca368f83590d188[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:29:06 2021 -0400
+
+    Change
+
+[33mcommit b224c99311cb5b316ccfcb7f04bb08481bb033c4[m
+Merge: 36c765d 43e7040
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:22:09 2021 -0400
+
+    Merge branch 'main' of github.com:ds3002/course into main
+
+[33mcommit 36c765d62e24b2ab494afa8587bbc6ccf725a9d1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:22:00 2021 -0400
+
+    Change
+
+[33mcommit 43e7040c899000e30495345d743e7da53f026721[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:19:03 2021 -0400
+
+    Cleanup - oops wrong repo!
+
+[33mcommit dcd2ba8c2d167f4a579104169ba440feb054837f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:18:09 2021 -0400
+
+    Test file
+
+[33mcommit cba8c1443f415e9fb4b623ce9944e6d1573db4e4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:09:44 2021 -0400
+
+    Cleaner
+
+[33mcommit 8727fed349d366593250b66ebfa3e175f1821423[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:07:13 2021 -0400
+
+    Cleaner
+
+[33mcommit 5fe8e15bdd5a85083acd666b859a9fe24cc3df42[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:01:30 2021 -0400
+
+    Cleaner
+
+[33mcommit ba1177a7c80f37b6a244a467a343dd28490b8ea3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 17:00:11 2021 -0400
+
+    Rename
+
+[33mcommit 83263c986535832dbf2f695580311271cd763c38[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:55:31 2021 -0400
+
+    Flag for test
+
+[33mcommit 1c31c9e35e4a68c0033c1648b974df7bdd43dda0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:54:29 2021 -0400
+
+    Sync script
+
+[33mcommit 94130227bbb7e3f45aab11b29272ca626aca668f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:46:08 2021 -0400
+
+    More dots
+
+[33mcommit 11ac47c81da877b46ec0b35c576c37b689bb3089[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:42:12 2021 -0400
+
+    More for yaml
+
+[33mcommit 407ec3cf983b10d59ffb6e87a7ef2c2478bb8cb3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:34:38 2021 -0400
+
+    More options
+
+[33mcommit a1c043aa47d2aab58830a90e4d2a0cc6975c2585[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:32:53 2021 -0400
+
+    More options
+
+[33mcommit 3f3d0a5bbfaf6d928f743f4630c5a04492cea75b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:18:34 2021 -0400
+
+    Cleaned up after recording
+
+[33mcommit edd0b75d441c4facc73ec0d9a108c357cfb7f39b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 16:09:41 2021 -0400
+
+    Test file
+
+[33mcommit cbec481842201187b7ef419d103ae39954e28544[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 15:51:32 2021 -0400
+
+    More clarity
+
+[33mcommit 03fb2ae9bfb66d9efe56e916faa02530acf1f893[m
+Merge: ac87029 a46d723
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 15:47:29 2021 -0400
+
+    Cleanup
+
+[33mcommit ac87029f34f6d6d327548171ecafaf8076d1ac2e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 15:44:37 2021 -0400
+
+    More
+
+[33mcommit a46d723951b932d8ca22cd75886a03c4b0511b2b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 15:31:39 2021 -0400
+
+    Test for the fetch upstream
+
+[33mcommit a9b29d7a47eaa663833fcbfc23cfa91791fd17f0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 15:10:16 2021 -0400
+
+    More for gitpod
+
+[33mcommit 6e7d897e57aba2010585a6a1273ad110bbc12626[m
+Merge: 305327f 8af61b9
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Thu Apr 1 14:17:00 2021 -0400
+
+    Merge pull request #2 from ds3002/nmagee/gitpod-setup
+    
+    Fully automate dev setup with Gitpod
+
+[33mcommit 8af61b9322098d13d8a8847f6817f10edae139d5[m
+Author: Neal Magee <nmagee@gmail.com>
+Date:   Thu Apr 1 18:12:09 2021 +0000
+
+    Fully automate dev setup with Gitpod
+    
+    This commit implements a fully-automated development setup using Gitpod.io, an
+    online IDE for GitLab, GitHub, and Bitbucket that enables Dev-Environments-As-Code.
+    This makes it easy for anyone to get a ready-to-code workspace for any branch,
+    issue or pull request almost instantly with a single click.
+
+[33mcommit 305327f318b56fa1bb142c04c9be42069a30f3ed[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 13:58:36 2021 -0400
+
+    SQL queries from class discussion
+
+[33mcommit 4ed155b57a430c57d1e27bbfa1985c99b948db29[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 08:12:07 2021 -0400
+
+    More to the README
+
+[33mcommit 25ad7b4d748005d82a7a7800a505ace8b6c227bf[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Apr 1 07:53:38 2021 -0400
+
+    Data Project 1
+
+[33mcommit def57ee26791d7962a0c7f25af64f3451f4b50a4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 30 08:59:25 2021 -0400
+
+    Adding sample SQL syntax ref.
+
+[33mcommit 38f40b93d148cfe85424d2c52c52bae8a3a3111c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 23 12:10:32 2021 -0400
+
+    Adding Jupyter Notebook for Week 9
+
+[33mcommit c635c27d9b12ab002a57bf18368470b5fdd13e88[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 23 10:56:45 2021 -0400
+
+    Building toward 11
+
+[33mcommit 38f951e75d23ce97f6b713532383105479886f30[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 14:06:25 2021 -0400
+
+    Update to 10
+
+[33mcommit f5e5ab476ea86ee3acfa69f3471048eeafdeb127[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 13:36:22 2021 -0400
+
+    Update to 10
+
+[33mcommit 4c3c65cdbf49470695417e5a32bca6a620236b07[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 13:36:00 2021 -0400
+
+    Update to 10
+
+[33mcommit 4fff0f50e0b0d6cb73b01a1a6ddc75a1d9fa8db2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 13:35:35 2021 -0400
+
+    Update to 10
+
+[33mcommit 9b8fec4a146609cf6788d07eb0ae3d23a61c2e28[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 13:34:42 2021 -0400
+
+    Update to 10
+
+[33mcommit cee3834baee329f44164d581ecaa53ff8125743c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Mar 19 13:30:54 2021 -0400
+
+    Tracking for 10
+
+[33mcommit 9c054a1d57eb64e10de416b76e2361f9e0c7269e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 16:06:17 2021 -0400
+
+    Tracking
+
+[33mcommit bbd2c4006f16036639124e5695164f5c3a236d5c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 15:40:35 2021 -0400
+
+    More
+
+[33mcommit 867c86131dbb7b0753bedc59f1c9f30a93f01fa9[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 15:10:48 2021 -0400
+
+    Updates
+
+[33mcommit 8359899f619b923dc3adf39a4fa375a2168c798a[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 10:33:11 2021 -0400
+
+    More to ignore
+
+[33mcommit f3ed4a11be2604ebddd7c24ab2a66b0a2dfb4e03[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 10:28:08 2021 -0400
+
+    More docker basics
+
+[33mcommit 545d64fc2905c1e89406dbeb609acbf075c0cb46[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 10:01:52 2021 -0400
+
+    More docker
+
+[33mcommit 600f42aed86934d1cda9988c632df2108cfe1b35[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 09:45:58 2021 -0400
+
+    Readme for container builds
+
+[33mcommit c9dbf63f8cb5b4e4df11433659d1ef8f1c9f3483[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 09:38:01 2021 -0400
+
+    Tracking
+
+[33mcommit 9f9f87e74c0e5e6acd0cdde63269b1f58a97ff0a[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Mar 18 08:54:15 2021 -0400
+
+    New build for 08
+
+[33mcommit 97f130b60efe8fb5b4ba9cfc5381e28ee6d63eed[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Mar 3 09:49:29 2021 -0500
+
+    Remove practice root
+
+[33mcommit 5d4102dbc03e1b9c19beb5bb7d44b0a8fd69a4fc[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 2 15:33:36 2021 -0500
+
+    Extending for container deploy
+
+[33mcommit 1d4134c14ce89053e527150e39fe52b52b8a7997[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Mar 2 14:43:26 2021 -0500
+
+    More in the build
+
+[33mcommit e68756cc7b2639ae0d14c0cb40f47df38d854986[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 25 16:25:27 2021 -0500
+
+    More instructions
+
+[33mcommit 133839d939b0cd497bdca6f7f5a3e4b1c3104d4d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 25 10:33:36 2021 -0500
+
+    Updated Python 3.8.8 for CVE
+
+[33mcommit 29fe8b3e62c7f31dd3430f4c25a892e1eb3b2671[m
+Merge: f4cd6f5 9426a49
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 24 16:19:27 2021 -0500
+
+    Merge branch 'main' of github.com:ds3002/course into main
+
+[33mcommit f4cd6f55551f46ddcbda4980f62b46a7b22843ee[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 24 16:19:19 2021 -0500
+
+    More scripting
+
+[33mcommit 9426a49d5c8e8e4bb56862ef733214cf53159252[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 15:33:35 2021 -0500
+
+    More cowbell
+
+[33mcommit 668b9a69a2491022e5384f5c614d4a88994726ac[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 15:22:29 2021 -0500
+
+    Version for req
+
+[33mcommit 73e842481dcbfedc517e61b4f4c4f61167319802[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 14:19:13 2021 -0500
+
+    Use GHCR not Docker
+
+[33mcommit 6df409c91ba4c7ab240b2230092283172e96963c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 14:17:31 2021 -0500
+
+    No need for requirements now
+
+[33mcommit 7c5837ed6042e5e707ad9cd47a64e321b98c4d63[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 14:16:46 2021 -0500
+
+    New image
+
+[33mcommit 6a0e609370d3366b2e59d52921666762c8609c70[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Feb 23 14:15:05 2021 -0500
+
+    GitPod
+
+[33mcommit 22282be4b76417149a0bd513345d05edfd241b01[m
+Merge: f06d205 977bd99
+Author: Neal Magee <nmagee@users.noreply.github.com>
+Date:   Tue Feb 23 14:06:59 2021 -0500
+
+    Merge pull request #1 from ds3002/nmagee/gitpod-setup
+    
+    Fully automate dev setup with Gitpod
+
+[33mcommit 977bd9997606da0c494456c659b6938d067b9602[m
+Author: Neal Magee <nmagee@gmail.com>
+Date:   Tue Feb 23 19:04:52 2021 +0000
+
+    Fully automate dev setup with Gitpod
+    
+    This commit implements a fully-automated development setup using Gitpod.io, an
+    online IDE for GitLab, GitHub, and Bitbucket that enables Dev-Environments-As-Code.
+    This makes it easy for anyone to get a ready-to-code workspace for any branch,
+    issue or pull request almost instantly with a single click.
+
+[33mcommit f06d205cd9e5082a0d7b4641015a03753dbeb5f0[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 19 13:58:46 2021 -0500
+
+    Reset to content
+
+[33mcommit 2491883b9ddc0c2fc129f34a5294077dacf4d1ac[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 19 13:19:25 2021 -0500
+
+    Stripped for lecture builds
+
+[33mcommit 663fb68a32e8e7506ad8a8155ae67aa418f3967b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 19 12:49:13 2021 -0500
+
+    Tracking - API consume
+
+[33mcommit faa08e9ae18c4398048c78d39d2b4ad4961f1e69[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 18 14:47:37 2021 -0500
+
+    More scripting - with solutions
+
+[33mcommit aa859f74dbf57a748c099add8884ca9a68f305e1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 14:31:55 2021 -0500
+
+    Kaggle for pandas
+
+[33mcommit a4dfa7490f23f059b6429aaa571177bd598d6a8a[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 14:20:52 2021 -0500
+
+    More explanation
+
+[33mcommit 9a1161cf05cf18efb7021cef96446f0d2e74742c[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 14:18:54 2021 -0500
+
+    More explanation
+
+[33mcommit b9d3f6bf1bbbc2d87c6b29e904ce4aea573193f6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 12:54:34 2021 -0500
+
+    Updated after script lecture
+
+[33mcommit 878c479548f7526896871464026d02960490dce4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 11:31:37 2021 -0500
+
+    Improved path
+
+[33mcommit 2eb307121a56a552384b48ff406a6521615eabc6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Fri Feb 12 11:25:49 2021 -0500
+
+    Scripts for lecture
+
+[33mcommit 9f68fb8ecce3235aa155e2ae376667b1ff636da7[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 11 10:30:20 2021 -0500
+
+    Shift
+
+[33mcommit 5b4731d2eb06b7ad0ff3a714b8ab2391e6e406af[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 11 10:25:06 2021 -0500
+
+    Restructure
+
+[33mcommit f79cb78d73443e517827d6f18572c269e3bd080b[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Thu Feb 11 10:13:26 2021 -0500
+
+    A bit more before discussion
+
+[33mcommit d046a84fdc4065debabefad8433038629aeb0db5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 10 16:25:29 2021 -0500
+
+    upgrade pip
+
+[33mcommit 76a33267e8bc0c36a7db1a78a5ad7762a7410e53[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 10 16:19:53 2021 -0500
+
+    Oops forgot the -y
+
+[33mcommit a4ba1353bb353861b6692990033954c7cb98951d[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 10 16:16:08 2021 -0500
+
+    Fleshing out more
+
+[33mcommit e08ce29ff7eefbc6e4d3250a60c6f1d5d6fec123[m
+Author: Neal Magee <nmagee@virginia.edu>
+Date:   Sun Feb 7 10:35:47 2021 -0500
+
+    More doc and nano
+
+[33mcommit 85ecd2dc53a42eb3bdb33f15aa7ce3be3efacc71[m
+Author: Neal Magee <nmagee@virginia.edu>
+Date:   Thu Feb 4 16:36:08 2021 -0500
+
+    More info on csv/tsv/etc.
+
+[33mcommit 3ad3e19fad17669666f534491d46a950379a1472[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:56:49 2021 -0500
+
+    README for data
+
+[33mcommit 7e08e20c69e1b58d5da22b8c09470a51ae91bdd5[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:34:56 2021 -0500
+
+    Explainer
+
+[33mcommit 25dfd99fc438ff07a1a46ca72c67447b12eca064[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:33:20 2021 -0500
+
+    Forgot zip!
+
+[33mcommit e6a0a81a6b8612298e60905ae00f88f1fb6026b8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:32:18 2021 -0500
+
+    Better README
+
+[33mcommit 04e928ab7745836db4d3549cfe6df36506b51555[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:18:57 2021 -0500
+
+    Better README
+
+[33mcommit a37c82cb87697cdde479616e6a313e4c1beaf0e9[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Wed Feb 3 15:09:49 2021 -0500
+
+    Cleanup with gsutil
+
+[33mcommit 1c35e81011eaf30727b47e58de16800fdfd671a2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Mon Feb 1 14:07:37 2021 -0500
+
+    Adding gsutil
+
+[33mcommit 051f16394ba6a5197c4ea4e2f794477e58588869[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 14:23:13 2021 -0500
+
+    More extended with basic tools
+
+[33mcommit cabd9d56f2674e61c103378fa545905f75b636c8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 13:23:18 2021 -0500
+
+    Adding ping
+
+[33mcommit b3637832756f942a0c7e5dfb5a9190cb9ac63354[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 13:12:31 2021 -0500
+
+    A few more tools
+
+[33mcommit 41ef5851faf62303ee3f817b9785d416fcfa31d4[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 13:01:47 2021 -0500
+
+    AWS CLI instrux
+
+[33mcommit 570ed2b3e821d3c0e08282b240af8557831f6d5e[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 13:01:05 2021 -0500
+
+    AWS CLI instrux
+
+[33mcommit 422ffe2a2fe252e04aada26ca12be37568816e30[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:52:36 2021 -0500
+
+    Adding some simple data formats
+
+[33mcommit 7a8585608ccfde2362f5d353243ce08f8b422851[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:42:29 2021 -0500
+
+    Markdownt tweak
+
+[33mcommit 98ad9a3d668a3b4208bad6887f34f3a650e52a88[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:41:45 2021 -0500
+
+    Markdownt tweak
+
+[33mcommit 2654c6fec1cc48e7476768662323da8a9983d3e6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:36:45 2021 -0500
+
+    Markdownt tweak
+
+[33mcommit 140d3055ac428a35df41b1caeecdc9b7d6e91fa1[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:35:49 2021 -0500
+
+    Markdownt tweak
+
+[33mcommit bf90a038a90086f39904c110fda04509ff485154[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:35:20 2021 -0500
+
+    Fix
+
+[33mcommit b6d7c0f9bb59c966a512aeb3ea8b2293d1a1fd4f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:34:52 2021 -0500
+
+    Fix
+
+[33mcommit e2a456ab2bd9c3e717a182dea1c68ad81fcd70e2[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:33:35 2021 -0500
+
+    Fix
+
+[33mcommit 202f81f6f94bf7c03a7cefb326320458506c60b6[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:33:04 2021 -0500
+
+    Fix
+
+[33mcommit 5c71c5c619c46b6a75afbb6d3628a7ba7dfef124[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:32:36 2021 -0500
+
+    Fix
+
+[33mcommit d63226721fd82785d63894f94195cfaa353b355f[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 12:31:45 2021 -0500
+
+    More README
+
+[33mcommit 80d79f550a79fcd71c20b99d30d2f4f25988bfb8[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 10:47:47 2021 -0500
+
+    Cleanup
+
+[33mcommit 08c857ad9dd4ea17206ce1806e27346926b4d3c3[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 10:37:01 2021 -0500
+
+    Fix branch ref
+
+[33mcommit 5aac43580ab683b25c1d2f02afa4ec33e4409472[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 10:36:06 2021 -0500
+
+    More in the container
+
+[33mcommit 6d36b7e0cac112951034210c9a3cb9b79937c4ea[m
+Author: Neal Magee <nem2p@virginia.edu>
+Date:   Tue Jan 26 10:20:36 2021 -0500
+
+    first commit

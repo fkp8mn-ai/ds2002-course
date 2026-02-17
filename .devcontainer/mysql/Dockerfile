@@ -28,6 +28,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y --no-install-reco
   python3-dev \
   python3-pip \
   python3-setuptools \
+  curl \
   nano \
   git net-tools \
   jq \

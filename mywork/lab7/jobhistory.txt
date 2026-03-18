@@ -1,0 +1,27 @@
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+10121961     ood_vscode interacti+     ds2002          0 CANCELLED+      0:0 
+10121963     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10121963.ba+      batch                ds2002          2  CANCELLED     0:15 
+10145074     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10145074.ba+      batch                ds2002          2  CANCELLED     0:15 
+10148548     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10148548.ba+      batch                ds2002          2  CANCELLED          
+10148542     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10148542.ba+      batch                ds2002          2  CANCELLED     0:15 
+10186462     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10186462.ba+      batch                ds2002          2  CANCELLED     0:15 
+10347061     ood_vscode interacti+     ds2002          2    RUNNING      0:0 
+10347061.ba+      batch                ds2002          2    RUNNING      0:0 
+10347764     book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10347764.ba+      batch                ds2002          1  COMPLETED      0:0 
+10348144_1   book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10348144_1.+      batch                ds2002          1  COMPLETED      0:0 
+10348144_2   book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10348144_2.+      batch                ds2002          1  COMPLETED      0:0 
+10348144_3   book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10348144_3.+      batch                ds2002          1  COMPLETED      0:0 
+10348144_4   book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10348144_4.+      batch                ds2002          1  COMPLETED      0:0 
+10348144_5   book-seri+ standard-+     ds2002          1  COMPLETED      0:0 
+10348144_5.+      batch                ds2002          1  COMPLETED      0:0 

@@ -48,11 +48,13 @@
    - **compute platform:** AWS EC2, AWS serverless, UVA HPC, etc?
    - **database systems:** MySQL, NoSQL, etc?
 
-4. Submit your plan
+4. Add your design plan PDF to your GitHub repository.
+    
+5. Submit your plan
 
-   Follow the instructions posted in the Canvas assignment.
+   Submit the link to your project GitHub repo in Canvas.
 
-5. Review approach with instructor
+6. Review approach with instructor
 
    We will check in with each group in class to confirm your approach and answer questions about your design choices. The date will be shared in class and on Canvas. 
 

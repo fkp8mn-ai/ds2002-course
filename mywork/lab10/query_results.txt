@@ -1,0 +1,10 @@
+name	species	visit_date	reason
+Buddy	Dog	2024-01-10 00:00:00	Vaccination
+Charlie	Dog	2024-01-15 00:00:00	Injury
+Bella	Dog	2024-01-18 00:00:00	Vaccination
+Max	Dog	2024-01-25 00:00:00	Checkup
+Rocky	Dog	2024-02-01 00:00:00	Surgery follow-up
+Daisy	Dog	2024-02-10 00:00:00	Vaccination
+Buddy Jr	Dog	2024-03-02 00:00:00	Vaccination
+Molly	Dog	2024-03-03 00:00:00	Dental cleaning
+Bailey	Dog	2024-03-05 00:00:00	Surgery follow-up
